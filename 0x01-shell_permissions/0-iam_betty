@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown betty 0-ima_betty
+su betty
